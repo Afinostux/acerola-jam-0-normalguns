@@ -1,0 +1,41 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "test.tmx",
+    "expandedProjectPaths": [
+        "editor_prefab",
+        "."
+    ],
+    "fileStates": {
+        "editor_prefab/enemies.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "test.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -28,
+                "y": -828
+            }
+        }
+    },
+    "last.imagePath": "C:/projects/acerola_jam_00/game/sprite",
+    "last.objectTemplatePath": "C:/projects/acerola_jam_00/editor_prefab",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "test.tmx",
+        "editor_prefab/enemies.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "editor_prefab/enemies.tsx",
+        "test.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

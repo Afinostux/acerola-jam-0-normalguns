@@ -1,0 +1,43 @@
+{ "frames": {
+   "Wheel_front": {
+    "frame": { "x": 47, "y": 0, "w": 12, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 31, "y": 45, "w": 12, "h": 12 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   "Body": {
+    "frame": { "x": 0, "y": 0, "w": 31, "h": 46 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 17, "y": 8, "w": 31, "h": 46 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   "Turret": {
+    "frame": { "x": 31, "y": 0, "w": 16, "h": 10 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 28, "y": 27, "w": 16, "h": 10 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   },
+   "Wheel_back": {
+    "frame": { "x": 47, "y": 0, "w": 12, "h": 12 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 15, "y": 45, "w": 12, "h": 12 },
+    "sourceSize": { "w": 64, "h": 64 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.4-x64",
+  "image": "shieldbot.png",
+  "format": "I8",
+  "size": { "w": 59, "h": 46 },
+  "scale": "1"
+ }
+}
